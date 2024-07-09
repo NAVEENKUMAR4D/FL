@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+tensorflow
+cryptography==39.0.2
+h5py==3.8.0
+scikit-learn
+
